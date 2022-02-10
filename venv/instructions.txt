@@ -1,0 +1,5 @@
+1) Create virtual enviornment (python3 -m venv venv) 
+    * Activate virtual environment source venv/bin/activate
+2) Activate virtual environment and then install FLASKAPI and Tortioise ORM 
+
+https://www.youtube.com/watch?v=tWv8Mi35jSQ&list=PLU7aW4OZeUzwYXbC_mbQJdAU7JUu81RZo&index=2
